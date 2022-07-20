@@ -10,3 +10,19 @@ body {
   gap: 1rem;
   padding: 1rem;
 }
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.cards {
+  outline: solid red;
+  text-align: center;
+}
+
+.x-tab {
+  cursor: pointer;;
+}
